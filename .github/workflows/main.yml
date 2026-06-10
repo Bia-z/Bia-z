@@ -16,7 +16,12 @@ jobs:
           github_user_name: Bia-z
           outputs: |
             dist/github-contribution-grid-snake.svg
-        
+          snake_color: "#ff69b4"          # cor rosa vibrante
+          background_color: "transparent" # fundo transparente
+          fetch_all_years: true            # busca dados de todos os anos disponíveis
+          square_size: 12                 # tamanho dos quadrados da cobrinha
+          gap_size: 2                     # espaçamento entre quadrados
+
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
         with:
