@@ -16,3 +16,5 @@
   <a href="https://www.linkedin.com/in/beatriz-caroline-moreno-tavares-274b0154/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+![Snake Animation](https://github.com/Bia-z/Bia-z/blob/update/github-contribution-grid-snake.svg)
