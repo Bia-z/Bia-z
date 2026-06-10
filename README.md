@@ -17,4 +17,4 @@
   
 </div>
 
-![Snake Animation](https://github.com/Bia-z/Bia-z/blob/update/github-contribution-grid-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/Bia-z/Bia-z/output/github-contribution-grid-snake.svg)
